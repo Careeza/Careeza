@@ -1,4 +1,4 @@
-<p align="center"><a><img src="https://badge42.vercel.app/api/v2/cl4bxkyet004509mnpcbpdsub/stats?cursusId=21&coalitionId=45" alt="fbecerri's 42 stats" /></a></p>
+<p align="center"><a><img src="https://badge42.vercel.app/api/v2/cl4edx5ni003009jmp8g86ffx/stats?cursusId=21&coalitionId=4" alt="fbecerri's 42 stats" /></a></p>
 
 <!--
 **Careeza/Careeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
